@@ -1,0 +1,47 @@
+{
+"Mundo": [
+    {
+        "id": 1,
+        "data": "28/07/1914",
+        "evento": "Início da Primeira Guerra Mundial"
+    },
+    {
+        "id": 2,
+        "data": "06/08/1945",
+        "evento": "Bomba atômica em Hiroshima (Japão)."
+    },
+    {
+        "id": 3,
+        "data": "24/02/2022",
+        "evento": "Início da invasão da Ucrânia pela Rússia."
+    },
+    {
+        "id": 4,
+        "data": "07/09/1822",
+        "evento": "Independência do Brasil, proclamada por Dom Pedro I."
+    }
+], 
+
+"Entretenimento": [
+    {
+        "id": 1,
+        "data": "10/12/1999",
+        "evento": "Lançamento de 'A Viagem de Chihiro' (Sen to Chihiro no Kamikakushi) no Japão, um marco de Hayao Miyazaki."
+    },
+    {
+        "id": 2,
+        "data": "16/06/2000",
+        "evento": "Estreia de 'X-Men: O Filme' nos EUA, iniciando a era de ouro dos filmes de super-heróis da Marvel."
+    },
+    {
+        "id": 3,
+        "data": "19/08/2007",
+        "evento": "Estreia do primeiro episódio de 'Death Note' no Japão."
+    },
+    {
+        "id": 4,
+        "data": "10/05/2019",
+        "evento": "Lançamento mundial de 'Pokémon: Detetive Pikachu', o primeiro filme live-action da franquia Pokémon."
+    }
+    ]
+}
