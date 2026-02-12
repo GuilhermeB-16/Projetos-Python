@@ -1,0 +1,40 @@
+{
+    "FraseMotiva":[
+        {   
+            "frases": "Lembre-se do seu passado com carinho. Afinal, é por causa dele que você está aqui hoje!"
+        },
+        {
+            "frases":"Com o coração cheio de gratidão, sei que sou capaz de superar qualquer obstáculo que a vida apresentar!"
+        },
+        {
+            "frases": "A gratidão é uma grande aliada do sucesso!"
+        },
+        {
+            "frases": "A vida é só sofrimento, morra"
+        }
+
+    ],
+
+   "PalavrasProibidas": [
+    "p+o+r+r+a+",
+    "c+a+r+a+l+h+[oa]",
+    "m+e+r+d+a+",
+    "f+o+d+a+\\s*s+e+",
+    "a+r+r+o+m+b+a+d+[oa]",
+    "p+u+t+(a|inha|ão|aria)",
+    "v[ai|aza]*\\s*t+o+m+a+r+r*\\s*n+o+\\s*c+u+",
+    "\\bc+u+\\b",
+    "\\bc+u+z+ã+o\\b",
+    "p+e+n+i+s+",
+    "\\bp+a+u+\\b",
+    "b+u+c+e+t+(a|inha|ão|ona|ola|uda)",
+    "f+u+(dida|dido|der|deu)",
+    "p+o+r+n+o+(grafia)?",
+    "r+a+p+a+r+i+g+[oa]",
+    "h+i+t+l+e+r+",
+    "n+a+z+i+s+t+a+",
+    "v+a+d+i+a(zinha)",
+    "palavrão",
+    "p+e+d+o+f+i+li+a"
+]
+}
